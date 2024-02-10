@@ -22,11 +22,24 @@ header{
 }
 .website{
     background-color: rgb(244, 200, 200);
-    max-width: 1250px;
     margin-inline: 5rem;
     margin-block: 10px;
     box-shadow: 1px 1px 6px rgb(183, 77, 77);
 }
+
+@media screen and (max-width: 600px) {
+    .website{
+        margin-inline: 0px;
+    }
+    .image img{
+        width: 24rem;
+        padding-left: 0rem;
+    }
+    .banner{
+        flex-direction: column;
+    }
+}
+
 .banner img{
    width: 20rem;
 }
