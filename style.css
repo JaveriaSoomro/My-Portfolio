@@ -1,0 +1,41 @@
+body{
+    font-family: "Baloo Bhai 2", sans-serif; 
+    background-color: rgb(242, 166, 166);
+    font-weight: 700;        
+ display: flex;
+    flex-direction: column;
+justify-content: space-evenly;
+   margin-left: 1rem;
+}
+.image img{
+    width: 18rem;
+   padding-left: 4rem;
+}
+header{
+    box-shadow: 1px 1px 6px rgb(183, 77, 77);
+}
+header{
+    box-shadow: 1px 1px 6px rgb(183, 77, 77);
+}
+.cursive{
+    font-family: "Pacifico", cursive;
+}
+.website{
+    background-color: rgb(244, 200, 200);
+    max-width: 1250px;
+    margin-inline: 5rem;
+    margin-block: 10px;
+    box-shadow: 1px 1px 6px rgb(183, 77, 77);
+}
+.banner img{
+   width: 20rem;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    background-color: rgb(232, 86, 86);
+    color: white;
+}
