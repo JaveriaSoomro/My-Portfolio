@@ -5,7 +5,6 @@ body{
  display: flex;
     flex-direction: column;
 justify-content: space-evenly;
-   margin-left: 1rem;
 }
 .image img{
     width: 18rem;
