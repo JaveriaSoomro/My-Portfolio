@@ -1,6 +1,6 @@
 body{
     font-family: "Baloo Bhai 2", sans-serif; 
-    background-color: rgb(242, 166, 166);
+    background-color: rgb(138, 31, 191);
     font-weight: 700;        
  display: flex;
     flex-direction: column;
@@ -12,7 +12,7 @@ justify-content: space-evenly;
    padding-left: 4rem;
 }
 header{
-    box-shadow: 1px 1px 6px rgb(183, 77, 77);
+    box-shadow: 1px 1px 6px rgb(91, 5, 135);
 }
 .hero{
     flex-direction: row-reverse;
@@ -21,15 +21,16 @@ header{
     font-family: "Pacifico", cursive;
 }
 .website{
-    background-color: rgb(244, 200, 200);
+    background-color: rgb(212, 142, 248);
     margin-inline: 5rem;
     margin-block: 10px;
-    box-shadow: 1px 1px 6px rgb(183, 77, 77);
+    box-shadow: 1px 1px 6px rgb(91, 5, 135);
 }
 
 @media screen and (max-width: 800px) {
     .website{
-        margin-inline: 0px;
+        margin-inline: 3px;
+        
     }
     .image img{
         padding-left: 0rem;
