@@ -27,7 +27,7 @@ header{
     box-shadow: 1px 1px 6px rgb(183, 77, 77);
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
     .website{
         margin-inline: 0px;
     }
@@ -38,8 +38,9 @@ header{
     .banner{
         flex-direction: column;
     }
-    .container{
+    .hero{
         flex-direction: column-reverse;
+        padding: 5px;
     }
 }
 
