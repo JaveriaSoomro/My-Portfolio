@@ -26,7 +26,7 @@ header{
     box-shadow: 1px 1px 6px rgb(91, 5, 135);
 }
 section{
-    margin-block: 1rem;
+    margin-block: 5rem;
 }
 @media screen and (max-width: 800px) {
     .website{
