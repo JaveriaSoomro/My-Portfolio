@@ -29,7 +29,7 @@ header{
 
 @media screen and (max-width: 800px) {
     .website{
-        margin-inline: 1.5rem;
+        margin-inline: 0.8rem;
         
     }
     .image img{
