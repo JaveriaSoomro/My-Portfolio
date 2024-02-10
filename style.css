@@ -14,8 +14,8 @@ justify-content: space-evenly;
 header{
     box-shadow: 1px 1px 6px rgb(183, 77, 77);
 }
-header{
-    box-shadow: 1px 1px 6px rgb(183, 77, 77);
+.hero{
+    flex-direction: row-reverse;
 }
 .cursive{
     font-family: "Pacifico", cursive;
